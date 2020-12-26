@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pyinstaller = "*"
 qrcode = {extras = ["pil"], version = "*"}
+pywin32-ctypes = "*"
 
 [dev-packages]
 

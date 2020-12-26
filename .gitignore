@@ -6,3 +6,8 @@
 
 # PNG output file
 *.png
+
+#Pyinstaller dirs
+/build
+/dist
+*.spec
